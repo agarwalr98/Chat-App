@@ -15,10 +15,10 @@ clone this repo (i.e. https://github.com/agarwalr98/Chat-App.git)
 * Express
 * socket.io
 
-## SETUP & RUnning
+## Setup & Running
 * Navigate the current directory to main(root) folder.
 * Run ```npm install```.
-* Now, run ```node app.js``` and open the browser at http:/127.0.0.1:8080.
+* Now, run ```node app.js``` and open the browser at http://127.0.0.1:8080 .
 
 ## Tests
 * Open multiple tabs in your browser and enter the details.
